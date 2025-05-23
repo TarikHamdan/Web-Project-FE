@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <title>title</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <nav class="navbar">
+    <div class="logo">logo</div>
+    <ul class="nav-links" id="nav-links">
+      <li><a href="#">الرئيسية</a></li>
+      <li><a href="#">عنّا</a></li>
+      <li><a href="#">تواصل</a></li>
+    </ul>
+    <div class="menu-toggle" id="menu-toggle">☰</div>
+  </nav>
+
+  <main>
+    <h1>welcome</h1>
+    <p>ww</p>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
